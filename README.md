@@ -6,7 +6,7 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm Riya Gaur ^_^</h1>
-<h3 align="center">Full-Stack Dev with a passion for Cybersecurity</h3>
+<h3 align="center">CS student | DSA practice | Open-source beginner contributions</h3>
 
 # 💫 About Me
 
