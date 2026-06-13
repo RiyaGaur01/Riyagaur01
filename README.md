@@ -113,7 +113,7 @@ A platform designed to improve emergency communication and disaster management.
 
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/flask-icon.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45"/>
 </p>
