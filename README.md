@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" height="100" alt="gif1" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height="100" alt="gif2" />
@@ -25,7 +24,6 @@ Computer Science Undergraduate | Software Developer | AI & Web Enthusiast
   </a>
 </p>
 
----
 
 ## About Me
 
@@ -45,7 +43,6 @@ I am actively expanding my knowledge in:
 
 Currently seeking opportunities to apply technical skills to real-world challenges and collaborative projects.
 
----
 
 ## Experience & Interests
 
@@ -57,7 +54,6 @@ Currently seeking opportunities to apply technical skills to real-world challeng
 - Contributing to open-source projects
 - Learning modern software engineering practices
 
----
 
 ## Projects
 
@@ -66,28 +62,24 @@ A platform for tracking internships, applications, deadlines, and opportunities 
 
 **Tech Stack:** React, Flask, SQL
 
----
 
 ### Sustainability Compliance Analyzer
 An AI-assisted system that analyzes sustainability compliance and generates insights for organizations.
 
 **Tech Stack:** Python, Machine Learning, Data Analysis
 
----
 
 ### Voice Assistant
 An intelligent voice-based assistant capable of processing commands and automating tasks.
 
 **Tech Stack:** Python, NLP, Speech Processing
 
----
 
 ### Disaster-Resilient Emergency Response Platform
 A platform designed to improve emergency communication and disaster management.
 
 **Tech Stack:** Full-Stack Development, APIs, Data Processing
 
----
 
 ## Certifications
 
@@ -95,7 +87,6 @@ A platform designed to improve emergency communication and disaster management.
 - NCET Certification
 - Continuous learning in Machine Learning and Backend Technologies
 
----
 
 ## Technical Skills
 
@@ -107,7 +98,6 @@ A platform designed to improve emergency communication and disaster management.
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" height="45"/>
 </p>
 
----
 
 ### Frontend Development
 
@@ -118,7 +108,6 @@ A platform designed to improve emergency communication and disaster management.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45"/>
 </p>
 
----
 
 ### Backend & Database
 
@@ -129,7 +118,6 @@ A platform designed to improve emergency communication and disaster management.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45"/>
 </p>
 
----
 
 ### AI & Data Science
 
@@ -141,7 +129,6 @@ A platform designed to improve emergency communication and disaster management.
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45" height="45"/>
 </p>
 
----
 
 ### Tools & Platforms
 
@@ -152,7 +139,6 @@ A platform designed to improve emergency communication and disaster management.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="45" height="45"/>
 </p>
 
----
 
 ## Connect With Me
 
@@ -166,7 +152,6 @@ A platform designed to improve emergency communication and disaster management.
   </a>
 </p>
 
----
 
 ## GitHub Statistics
 
@@ -184,11 +169,10 @@ A platform designed to improve emergency communication and disaster management.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riyagaur01&theme=nord_bright" />
 </p>
 
----
+
 
 <div align="center">
 
 *"Building intelligent systems and scalable software solutions through continuous learning and innovation."*
 
 </div>
-```
